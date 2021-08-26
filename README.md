@@ -2,7 +2,9 @@
 ---
 ## I'm a Software Developer & Software Architect
 
-I **keep learning** architecture characteristics and design patterns in system
+I **keep learning** and improve my abilities :
+- architecture characteristics and design patterns in system
+
 ## My GitHub Stats💻
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ehsangh7&count_private=true&theme=tokyonight&showicons=true)
 ---
