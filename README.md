@@ -2,12 +2,12 @@
 ---
 ## Software Developer
 
-I **keep learning** and improve my abilities :
+I **keep learning** and improve my abilities :\n
 Fundamental Software Architecture 📖
 - architecture characteristics and design patterns in system
 - domain driven design
-
-Linux Professional Institute ✨
+SysAdmin ⛳\n
+- Linux Professional Institute ✨\n
 
 DevOps ❤
 
