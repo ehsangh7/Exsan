@@ -8,7 +8,9 @@ Fundamental Software Architecture 📖
 - domain driven design
 
 Linux Professional Institute ✨
+
 DevOps ❤
+
 ## My GitHub Stats 💻
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ehsangh7&count_private=true&theme=tokyonight&showicons=true)
 ---
