@@ -8,8 +8,10 @@ Fundamental Software Architecture 📖
 - architecture characteristics and design patterns in system
 - domain driven design
 
-SysAdmin ⛳
-- Linux Professional Institute ✨
+User Interface & User Experience 🌈
+- zero to masrtery academy
+
+Linux Professional Institute ✨
 
 DevOps ❤
 - Docker 🐋
