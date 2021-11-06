@@ -4,9 +4,9 @@
 
 I **keep learning** and improve my abilities :
 
-Fundamental Software Architecture 📖
+Software Architecture 📖
 - architecture characteristics and design patterns in system
-- domain driven design
+- Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices
 
 User Interface & User Experience 🌈
 - zero to masrtery academy
