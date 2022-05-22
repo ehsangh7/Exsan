@@ -1,20 +1,7 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Exsan
 ---
-## Software Developer
-
-I **keep learning** and improve my abilities :
-
-Software Architecture 📖
-- architecture characteristics and design patterns in system
-- Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices
-
-User Interface & User Experience 🌈
-- zero to masrtery academy
-
-Linux Professional Institute ✨
-
-DevOps ❤
-- Docker 🐋
+## Software Developer  
+Im Python developer
 
 ## My GitHub Stats 💻
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ehsangh7&count_private=true&theme=tokyonight&showicons=true)
